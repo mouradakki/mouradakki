@@ -32,7 +32,6 @@ Hi there! I'm **Mourad**, a passionate **Front-End Developer** focused on crafti
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Touch Typing](https://img.shields.io/badge/Touch_Typing-00BFA6?style=for-the-badge&logo=typingtutor&logoColor=white)
-![Touch Typing](https://img.shields.io/badge/Touch_Typing-00BFA6?style=for-the-badge&logo=typingtutor&logoColor=white)
 ![Typing Speed](https://img.shields.io/badge/Typing_Speed-80%2B_WPM-blue?style=for-the-badge&logo=keyboard&logoColor=white)
 
 
