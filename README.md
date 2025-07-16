@@ -1,29 +1,29 @@
-# 👋 مرحبًا بك في ملف Mourad الشخصي!
+# 👋 Welcome to Mourad's GitHub Profile!
 
-## 🚀 نحو الاحتراف وبناء المشاريع
+## 🚀 On a Mission to Build and Grow
 
-مرحبًا! أنا Mourad، مطور واجهات أمامية (Front-End Developer) أركز على بناء مواقع احترافية وعصرية باستخدام JavaScript و React و Tailwind CSS.
+Hi there! I'm **Mourad**, a passionate **Front-End Developer** focused on crafting modern, responsive, and high-converting websites using **JavaScript**, **React**, and **Tailwind CSS**.
 
-🎯 **هدفي** هو تحقيق دخل ثابت من خلال العمل مع الشركات أو كـ Freelancer، ثم استثمار هذا الدخل في مشاريعي الخاصة.
+🎯 **My Goal**: To generate a stable income through freelancing or working with companies, then invest that income into launching and scaling my own tech projects.
 
-🌱 حاليًا أعمل على تحسين مهاراتي في React، وبناء Landing Pages و Dashboards عالية الجودة قابلة للنشر والبيع على المنصات مثل ThemeForest و CreativeMarket.
+🌱 I'm currently learning **React** deeply while building premium **Landing Pages** and **Dashboards** ready for marketplaces like **ThemeForest** and **Creative Market**.
 
-💬 اسألني عن:
-- JavaScript
+💬 Ask me about:
+- JavaScript (Vanilla & DOM manipulation)
 - HTML & CSS
 - Tailwind CSS
-- بناء واجهات واقعية لمواقع تجارية
-- تصميم صفحات هبوط فعالة (Landing Pages)
+- Building modern, real-world UIs
+- High-conversion Landing Pages
 
 ---
 
-## 🔗 تواصل معي
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/Mourad%20Akki-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mourad-akki-70558a357/?locale=en_US)
 
 ---
 
-## 🧰 الأدوات والتقنيات التي أستخدمها
+## 🧰 Tech Stack & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -36,7 +36,7 @@
 
 ---
 
-## ⚙️ فلسفتي البرمجية
+## ⚙️ Dev Philosophy
 
 ```js
 (function hustle() {
